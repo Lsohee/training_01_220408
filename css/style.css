@@ -2,6 +2,12 @@
 
 #root div{
   border: 2px solid black;
+  height: 45%;
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: column; */
 }
 
 #root{
